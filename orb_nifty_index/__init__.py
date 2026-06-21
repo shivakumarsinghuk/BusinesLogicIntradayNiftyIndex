@@ -2,4 +2,4 @@
 """
 # business_logic/__init__.py
 """
-from .orb_nifty_index.orb_nifty_index import *
+from .orb_nifty_index import *
